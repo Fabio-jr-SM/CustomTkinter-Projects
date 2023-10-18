@@ -36,5 +36,5 @@ button.place(relx=0.5, rely=0.5, anchor=customtkinter.CENTER)
 app.mainloop()
 ```
 
-<img src="![image](https://github.com/Fabio-jr-SM/CustomTkinter-Projects/assets/91484736/bc5ecc21-1720-46c0-bc08-0a8453857746)" width="400"/>
+![image](https://github.com/Fabio-jr-SM/CustomTkinter-Projects/assets/91484736/bc5ecc21-1720-46c0-bc08-0a8453857746)
 
