@@ -1,21 +1,21 @@
 # CustomTkinter Projects
 Projetos usando CustomTkinter
 
-## Installation
-Install the module with pip:
+## Instalação
+instalação do modulo com pip:
 ```
 pip3 install customtkinter
 ```
 **Update existing installation:** ```pip3 install customtkinter --upgrade```\
 (update as often as possible because this library is under active development)
 
-## Documentation
+## Documentação
 
 The **official** documentation can be found here:
 
 **➡️ https://customtkinter.tomschimansky.com/documentation**.
 
-## Example Program
+## Progama de Exemplo
 To test customtkinter you can try this simple example with only a single button:
 ```python
 import customtkinter
@@ -35,5 +35,6 @@ button.place(relx=0.5, rely=0.5, anchor=customtkinter.CENTER)
 
 app.mainloop()
 ```
-![image](https://github.com/Fabio-jr-SM/CustomTkinter-Projects/assets/91484736/bc5ecc21-1720-46c0-bc08-0a8453857746)
+![image](https://github.com/Fabio-jr-SM/CustomTkinter-Projects/assets/91484736/1bf39919-2bc4-437d-989c-99c65574ee34)
+
 
