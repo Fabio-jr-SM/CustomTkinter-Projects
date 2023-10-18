@@ -1,2 +1,2 @@
-# CustomTkinter-Projects
+# CustomTkinter Projects
 Projetos usando CustomTkinter
